@@ -1,0 +1,3 @@
+endpoint:
+  root: /rest/api
+  posts: ${endpoint.root}/posts
