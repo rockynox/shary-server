@@ -1,7 +1,7 @@
-package fr.hobbit.Sharyserver.domain;
+package fr.hobbit.sharyserver.domain;
 
 
-import fr.hobbit.Sharyserver.emun.PostType;
+import fr.hobbit.sharyserver.emun.PostType;
 import lombok.Data;
 
 import javax.persistence.Entity;

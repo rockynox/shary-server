@@ -1,6 +1,6 @@
-package fr.hobbit.Sharyserver.domain.posts;
+package fr.hobbit.sharyserver.domain.posts;
 
-import fr.hobbit.Sharyserver.domain.AuditEntity;
+import fr.hobbit.sharyserver.domain.AuditEntity;
 import lombok.Data;
 
 import javax.persistence.Entity;

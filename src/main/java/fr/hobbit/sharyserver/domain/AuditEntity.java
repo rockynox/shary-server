@@ -1,4 +1,4 @@
-package fr.hobbit.Sharyserver.domain;
+package fr.hobbit.sharyserver.domain;
 
 import lombok.Data;
 import org.springframework.data.annotation.CreatedDate;

@@ -1,4 +1,4 @@
-package fr.hobbit.Sharyserver.emun;
+package fr.hobbit.sharyserver.emun;
 
 public enum PostType {
     ARTICLE,

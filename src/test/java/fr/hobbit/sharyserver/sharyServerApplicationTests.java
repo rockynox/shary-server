@@ -1,4 +1,4 @@
-package fr.hobbit.Sharyserver;
+package fr.hobbit.sharyserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SharyServerApplicationTests {
+public class sharyServerApplicationTests {
 
 	@Test
 	public void contextLoads() {

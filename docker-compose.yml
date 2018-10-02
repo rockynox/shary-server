@@ -18,3 +18,11 @@ services:
     restart: always
     ports:
     - 8080:8080
+
+  shary-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: shary-api
+    ports:
+    - 8080:80

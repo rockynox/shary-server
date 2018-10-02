@@ -1,7 +1,7 @@
-package fr.hobbit.Sharyserver.controller;
+package fr.hobbit.sharyserver.controller;
 
-import fr.hobbit.Sharyserver.domain.Post;
-import fr.hobbit.Sharyserver.service.PostService;
+import fr.hobbit.sharyserver.domain.Post;
+import fr.hobbit.sharyserver.service.PostService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

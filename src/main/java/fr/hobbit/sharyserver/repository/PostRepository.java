@@ -1,6 +1,6 @@
-package fr.hobbit.Sharyserver.repository;
+package fr.hobbit.sharyserver.repository;
 
-import fr.hobbit.Sharyserver.domain.Post;
+import fr.hobbit.sharyserver.domain.Post;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

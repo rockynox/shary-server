@@ -1,7 +1,7 @@
-package fr.hobbit.Sharyserver.service;
+package fr.hobbit.sharyserver.service;
 
-import fr.hobbit.Sharyserver.domain.Post;
-import fr.hobbit.Sharyserver.repository.PostRepository;
+import fr.hobbit.sharyserver.domain.Post;
+import fr.hobbit.sharyserver.repository.PostRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
